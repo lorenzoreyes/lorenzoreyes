@@ -3,7 +3,7 @@
 <h3 align="center">Soy abogado, soy financista... todo mezclado y potenciado con programacion</h3>
 
 - 👀 Fields of interests: finance, security, law and cinema
-- Website [Quanvas](https://lorenzoreyes.dev)
+- [Website Personal](https://lorenzoreyes.dev)
 - Reach me / Contacto [Whatsapp](https://wa.me/5492477562603) [Telegram](https://t.me/quanvas)
 * [Twitch - 2pesos_lorenzoreyes](https://www.twitch.tv/2pesos_lorenzoreyes) Live Coding / Sesiones en vivo de proyectos
 * [Youtube](https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ) Coding Books / Libros de Programacion y temas varios
