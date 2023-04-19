@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Lorenzo Reyes</h1>
+<h1 align="center">Lorenzo Reyes</h1>
 <h3 align="center">I am a lawyer, financial analyst... all together merged with programming</h3>
+<h3 align="center">Soy abogado, soy financista... todo mezclado y potenciado con programacion</h3>
 
 - 👀 Fields of interests: finance, security, law and cinema
 - Website [Quanvas](https://lorenzoreyes.dev)
-- Reach me [Whatsapp](https://wa.me/5492477562603) [Telegram](https://t.me/quanvas)
-* [Twitch - 2pesos_lorenzoreyes](https://www.twitch.tv/2pesos_lorenzoreyes) Live Coding 
-* [Youtube](https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ) Coding Books 
+- Reach me / Contacto [Whatsapp](https://wa.me/5492477562603) [Telegram](https://t.me/quanvas)
+* [Twitch - 2pesos_lorenzoreyes](https://www.twitch.tv/2pesos_lorenzoreyes) Live Coding / Sesiones en vivo de proyectos
+* [Youtube](https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ) Coding Books / Libros de Programacion y temas varios
+* <h3 align="left">Communities / Comunidades</h3>
+* <h3 align="left">Presentate al ingresar, usuarios sin identificarse seran eliminados por seguridad</h3>
 * [Facebook - Finanzas.py](https://www.facebook.com/groups/1385919778888014)
 * [Twitter- lorenzoreyes_x](https://twitter.com/lorenzoreyes_x)
 * [Discord Server - Finanzas.py](https://discord.gg/gQUsFDcS)
 * [Instagram - _lorenzoreyes_](https://www.instagram.com/_lorenzoreyes_/)
-
+* [Whatsapp - Quantocracia](https://chat.whatsapp.com/BAa6f5b98d23jk6GwLgj6E)
+* [Telegram - Quantocracia](https://t.me/+EECsSfa-IDY3OWQx)
 
 <!---
 lorenzoreyes/lorenzoreyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
