@@ -9,10 +9,10 @@
 * [Youtube](https://www.youtube.com/channel/UCU6-WSlGv3hMsvsH8aFn0BQ) Coding Books / Libros de Programacion y temas varios
 * <h3 align="left">Communities / Comunidades</h3>
 * <h3 align="left">Presentate al ingresar, usuarios sin identificarse seran eliminados por seguridad</h3>
-* [Whatsapp - 2Pesos](https://chat.whatsapp.com/BAa6f5b98d23jk6GwLgj6E)
-* [Telegram - 2Pesos](https://t.me/+EECsSfa-IDY3OWQx)
-* [Facebook - 2Pesos](https://www.facebook.com/groups/1385919778888014)
-* [Discord Server - Finanzas.py](https://discord.gg/gQUsFDcS)
+* [Whatsapp](https://chat.whatsapp.com/BAa6f5b98d23jk6GwLgj6E)
+* [Telegram](https://t.me/+EECsSfa-IDY3OWQx)
+* [Facebook](https://www.facebook.com/groups/1385919778888014)
+* [Discord](https://discord.gg/gQUsFDcS)
 * [Twitter- lorenzoreyes_x](https://twitter.com/lorenzoreyes_x) retweets sobre el tema.
 * [Instagram - _lorenzoreyes_](https://www.instagram.com/_lorenzoreyes_/) contacto.
 
