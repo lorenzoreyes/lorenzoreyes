@@ -11,7 +11,7 @@
 * <h3 align="left">Presentate al ingresar, usuarios sin identificarse seran eliminados por seguridad</h3>
 * [Whatsapp - 2Pesos](https://chat.whatsapp.com/BAa6f5b98d23jk6GwLgj6E)
 * [Telegram - 2Pesos](https://t.me/+EECsSfa-IDY3OWQx)
-* [Facebook - Finanzas.py](https://www.facebook.com/groups/1385919778888014)
+* [Facebook - 2Pesos](https://www.facebook.com/groups/1385919778888014)
 * [Discord Server - Finanzas.py](https://discord.gg/gQUsFDcS)
 * [Twitter- lorenzoreyes_x](https://twitter.com/lorenzoreyes_x) retweets sobre el tema.
 * [Instagram - _lorenzoreyes_](https://www.instagram.com/_lorenzoreyes_/) contacto.
