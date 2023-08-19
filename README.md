@@ -13,7 +13,6 @@
 * [Telegram](https://t.me/+EECsSfa-IDY3OWQx)
 * [Facebook](https://www.facebook.com/groups/1385919778888014)
 * [Discord](https://discord.gg/gQUsFDcS)
-* [Twitter- lorenzoreyes_x](https://twitter.com/lorenzoreyes_x) retweets sobre el tema.
 * [Instagram - _lorenzoreyes_](https://www.instagram.com/_lorenzoreyes_/) contacto.
 
 <!---
